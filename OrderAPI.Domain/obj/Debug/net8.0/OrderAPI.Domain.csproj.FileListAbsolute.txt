@@ -1,0 +1,11 @@
+C:\Users\tjara\source\repos\SolutionDemoEcommerceOrderAPISolution\OrderAPI.Domain\bin\Debug\net8.0\OrderAPI.Domain.deps.json
+C:\Users\tjara\source\repos\SolutionDemoEcommerceOrderAPISolution\OrderAPI.Domain\bin\Debug\net8.0\OrderAPI.Domain.dll
+C:\Users\tjara\source\repos\SolutionDemoEcommerceOrderAPISolution\OrderAPI.Domain\bin\Debug\net8.0\OrderAPI.Domain.pdb
+C:\Users\tjara\source\repos\SolutionDemoEcommerceOrderAPISolution\OrderAPI.Domain\obj\Debug\net8.0\OrderAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjara\source\repos\SolutionDemoEcommerceOrderAPISolution\OrderAPI.Domain\obj\Debug\net8.0\OrderAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\tjara\source\repos\SolutionDemoEcommerceOrderAPISolution\OrderAPI.Domain\obj\Debug\net8.0\OrderAPI.Domain.AssemblyInfo.cs
+C:\Users\tjara\source\repos\SolutionDemoEcommerceOrderAPISolution\OrderAPI.Domain\obj\Debug\net8.0\OrderAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tjara\source\repos\SolutionDemoEcommerceOrderAPISolution\OrderAPI.Domain\obj\Debug\net8.0\OrderAPI.Domain.dll
+C:\Users\tjara\source\repos\SolutionDemoEcommerceOrderAPISolution\OrderAPI.Domain\obj\Debug\net8.0\refint\OrderAPI.Domain.dll
+C:\Users\tjara\source\repos\SolutionDemoEcommerceOrderAPISolution\OrderAPI.Domain\obj\Debug\net8.0\OrderAPI.Domain.pdb
+C:\Users\tjara\source\repos\SolutionDemoEcommerceOrderAPISolution\OrderAPI.Domain\obj\Debug\net8.0\ref\OrderAPI.Domain.dll

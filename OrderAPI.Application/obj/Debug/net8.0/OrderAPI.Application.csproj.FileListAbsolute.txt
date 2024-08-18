@@ -1,0 +1,17 @@
+C:\Users\tjara\source\repos\SolutionDemoEcommerceOrderAPISolution\OrderAPI.Application\bin\Debug\net8.0\OrderAPI.Application.deps.json
+C:\Users\tjara\source\repos\SolutionDemoEcommerceOrderAPISolution\OrderAPI.Application\bin\Debug\net8.0\OrderAPI.Application.dll
+C:\Users\tjara\source\repos\SolutionDemoEcommerceOrderAPISolution\OrderAPI.Application\bin\Debug\net8.0\OrderAPI.Application.pdb
+C:\Users\tjara\source\repos\SolutionDemoEcommerceOrderAPISolution\OrderAPI.Application\obj\Debug\net8.0\OrderAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjara\source\repos\SolutionDemoEcommerceOrderAPISolution\OrderAPI.Application\obj\Debug\net8.0\OrderAPI.Application.AssemblyInfoInputs.cache
+C:\Users\tjara\source\repos\SolutionDemoEcommerceOrderAPISolution\OrderAPI.Application\obj\Debug\net8.0\OrderAPI.Application.AssemblyInfo.cs
+C:\Users\tjara\source\repos\SolutionDemoEcommerceOrderAPISolution\OrderAPI.Application\obj\Debug\net8.0\OrderAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\tjara\source\repos\SolutionDemoEcommerceOrderAPISolution\OrderAPI.Application\obj\Debug\net8.0\OrderAPI.Application.dll
+C:\Users\tjara\source\repos\SolutionDemoEcommerceOrderAPISolution\OrderAPI.Application\obj\Debug\net8.0\refint\OrderAPI.Application.dll
+C:\Users\tjara\source\repos\SolutionDemoEcommerceOrderAPISolution\OrderAPI.Application\obj\Debug\net8.0\OrderAPI.Application.pdb
+C:\Users\tjara\source\repos\SolutionDemoEcommerceOrderAPISolution\OrderAPI.Application\obj\Debug\net8.0\ref\OrderAPI.Application.dll
+C:\Users\tjara\source\repos\SolutionDemoEcommerceOrderAPISolution\OrderAPI.Application\bin\Debug\net8.0\ecommerceSharedLibrary.dll
+C:\Users\tjara\source\repos\SolutionDemoEcommerceOrderAPISolution\OrderAPI.Application\bin\Debug\net8.0\OrderAPI.Domain.dll
+C:\Users\tjara\source\repos\SolutionDemoEcommerceOrderAPISolution\OrderAPI.Application\bin\Debug\net8.0\ecommerceSharedLibrary.pdb
+C:\Users\tjara\source\repos\SolutionDemoEcommerceOrderAPISolution\OrderAPI.Application\bin\Debug\net8.0\OrderAPI.Domain.pdb
+C:\Users\tjara\source\repos\SolutionDemoEcommerceOrderAPISolution\OrderAPI.Application\obj\Debug\net8.0\OrderAPI.Application.csproj.AssemblyReference.cache
+C:\Users\tjara\source\repos\SolutionDemoEcommerceOrderAPISolution\OrderAPI.Application\obj\Debug\net8.0\OrderAPI.3B0F878C.Up2Date
